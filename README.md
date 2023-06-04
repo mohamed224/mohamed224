@@ -11,8 +11,8 @@
 </p>
 
 
-- 🔭 I’m currently working on setting up international trade in services statistics for member countries of
-WAEMU
+- 🔭 I'm currently working as a java back-end developer on a software package for the insurance and health sectors. 
+- 🔭 I also do flutter and angular on my personal projects and on collaborative projects with my friends.
 - 🌱 I’m currently learning competitive programming using the Leetcode platform
 - 👯 I’m looking to collaborate on java based projects...
 - 📫 How to reach me: mdiaby00@gmail.com
@@ -20,7 +20,7 @@ WAEMU
 <details>
     <summary>📃 Experience</summary>
 
-- **Junior Developer** `Spark-It` `📆 2020 - Present` `📍 Sfax, Tunisie` 
+- **Junior Developer** `Be-IVS` `📆 2020 - Present` `📍 Clermont-Ferrand, France` 
   <p align='center'><img align='right' src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white" />
   <img align='right' src="https://img.shields.io/badge/Docker-0693e3?style=plastic&logo=docker&logoColor=white" />
   <img align='right' src="https://img.shields.io/badge/GitLab-330F63?style=plastic&logo=gitlab&logoColor=white" />
