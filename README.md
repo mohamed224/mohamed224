@@ -20,7 +20,7 @@
 <details>
     <summary>📃 Experience</summary>
 
-- **Junior Developer** `Be-IVS` `📆 2020 - Present` `📍 Clermont-Ferrand, France` 
+- **Experienced Developer** `Be-IVS` `📆 2020 - Present` `📍 Clermont-Ferrand, France` 
   <p align='center'><img align='right' src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white" />
   <img align='right' src="https://img.shields.io/badge/Docker-0693e3?style=plastic&logo=docker&logoColor=white" />
   <img align='right' src="https://img.shields.io/badge/GitLab-330F63?style=plastic&logo=gitlab&logoColor=white" />
